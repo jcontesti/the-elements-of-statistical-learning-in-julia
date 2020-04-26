@@ -1,1 +1,1 @@
-# the-elements-of-statistical-learning-in-julia
+# The Elements of Statistical Learning in Julia

@@ -1,4 +1,5 @@
 name = "the-elements-of-statistical-learning-in-julia"
+authors = ["Jordi Contestí"]
 version = "0.0.1"
 
 [deps]

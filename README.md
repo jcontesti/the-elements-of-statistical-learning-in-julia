@@ -1,4 +1,4 @@
-# The Elements of Statistical Learning in Julia
+# The Elements of Statistical Learning in Julia (Work in Progress)
 
 As a result of the study of "The Elements of Statistical Learning" book, I will add to this repository all my notebooks written in Julia that have helped me better understand this book.
 

@@ -1,0 +1,5 @@
+name = "the-elements-of-statistical-learning-in-julia"
+version = "0.0.1"
+
+[deps]
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"

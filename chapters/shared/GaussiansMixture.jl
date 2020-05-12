@@ -1,4 +1,10 @@
-function plot_gaussian_scatter(X, Y, Ŷ)
+"""
+   plot_decision_boundary_on_scatter(X, Y, Ŷ)
+
+Plot a 2-dimensions scatter using X and Y and add the decision boundary computed in Ŷ
+
+"""
+function plot_decision_boundary_on_scatter(X, Y, Ŷ, title)
     
     # Create plot for training data (X matrix)
     training_plot = scatter(
@@ -9,6 +15,7 @@ function plot_gaussian_scatter(X, Y, Ŷ)
         ticks = false,
         legend = false,
         framestyle = :box,
+        title = title,
     )
 
     # Prepare data to show the decision boundary
